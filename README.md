@@ -4,7 +4,7 @@ To simulate a Clapp Oscillator and to obtain the output.
 ## APPARATUS REQUIRED:
 PC with LT Spice software
 ## CIRCUIT DIAGRAM:
-<img width="1144" height="958" alt="image" src="https://github.com/user-attachments/assets/4a4c74b3-1ee2-4632-ae37-d8f589f35dee" />
+<img width="1906" height="1008" alt="image" src="https://github.com/user-attachments/assets/bc39bf79-c175-4adc-b7e9-218e1c34d477" />
 
 
 ## SIMULATION PROCEDURE:
@@ -41,13 +41,14 @@ PC with LT Spice software
 33.	To get the voltage across a component the name of the trace should represent both the nodes. example V(n001,n002))
 
 34.	## THEORITICAL CALCULATION:
-35.	![WhatsApp Image 2025-11-26 at 19 52 35_25f704c8](https://github.com/user-attachments/assets/ac8d6e0f-1701-46f0-ab9a-1dcb026410e1)
+<img width="899" height="1599" alt="WhatsApp Image 2026-06-10 at 13 00 18" src="https://github.com/user-attachments/assets/189451d1-3826-4831-8607-7cc4681f15b2" />
+
 
 36.	
 37.	## OUTPUTS:
-38.	![WhatsApp Image 2025-11-22 at 22 19 21_9d7018ab](https://github.com/user-attachments/assets/4939ce87-0fd7-4f7a-be00-8397024a0dc3)
+38.	<img width="1280" height="801" alt="image" src="https://github.com/user-attachments/assets/c69fbda9-9b8b-4b49-a56a-12b1493434a9" />
 
 
 39.	## RESULT:
-![photo_2025-12-02_11-24-23](https://github.com/user-attachments/assets/5bbfda3c-83e2-4363-b44f-33ac02b08fbe)
+<img width="1600" height="720" alt="WhatsApp Image 2026-06-10 at 12 44 04" src="https://github.com/user-attachments/assets/73ab116c-09f0-4528-927b-77b8d9b8c8c8" />
 
